@@ -1,6 +1,6 @@
 # Controle de Tags
 
-Sistema em C, executado no terminal, para controle de tags veiculares e dispositivos de acesso de uma empresa de portaria remota.
+Sistema em C, executado no terminal, para controle de tags veiculares 
 
 ## Funcionalidades
 
